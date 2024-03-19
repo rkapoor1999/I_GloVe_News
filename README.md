@@ -1,6 +1,7 @@
 # WhatTheGlove-
 
-![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/120px-TensorFlowLogo.svg.png) ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png) ![pandas Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/120px-Pandas_logo.svg.png) ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/120px-NumPy_logo.svg.png) ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/120px-Created_with_Matplotlib-logo.svg.png) ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) ![NLTK Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/120px-NLTK_logo.svg.png)
+![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/50px-TensorFlowLogo.svg.png) ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/50px-Keras_logo.svg.png) ![pandas Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/50px-Pandas_logo.svg.png) ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/50px-NumPy_logo.svg.png) ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/50px-Created_with_Matplotlib-logo.svg.png) ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) ![NLTK Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/50px-NLTK_logo.svg.png)
+
 
 
 
