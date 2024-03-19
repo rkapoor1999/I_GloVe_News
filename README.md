@@ -25,7 +25,7 @@
 </a>
 
 <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/50px-NLTK_logo.svg.png" alt="NLTK" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </a>
 
 
