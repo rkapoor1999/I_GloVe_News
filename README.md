@@ -53,9 +53,5 @@ The trained model achieves high accuracy in classifying news articles into their
 - Exploring other GloVe embeddings to try for better accuracies
 - Deploying the model for real-time classification of news articles
 
-## License 📄
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments 🙏
-Special thanks to GloVe for providing pre-trained word embeddings.
-
+Thanks to GloVe for providing pre-trained word embeddings.
