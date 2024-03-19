@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/50px-NumPy_logo.svg.png" alt="NumPy" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/500px-NumPy_logo.svg.png" alt="NumPy" width="100" height="50"/>
 </a>
 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
