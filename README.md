@@ -1,5 +1,20 @@
 # WhatTheGlove-
 
+![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png)
+
+![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png)
+
+![pandas Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
+
+![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png)
+
+![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png)
+
+![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+
+![NLTK Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/1200px-NLTK_logo.svg.png)
+
+
 # Project Overview
 
 This project aims to classify news articles into five categories: sport, business, tech, entertainment, and politics. It utilizes GloVe embeddings for text representation and employs a neural network model for classification.
