@@ -75,7 +75,7 @@ The neural network training process includes:
 - Saving the best model based on validation accuracy using ModelCheckpoint callback
 
 ## Results 📊
-The trained model achieves high accuracy in classifying news articles into their respective categories.
+The trained model achieves a Validation Accuracy of 0.91 and a Training Accuracy of 1.00 in classifying news articles into their respective categories.
 
 ## Future Work 🔍
 - Fine-tuning hyperparameters for improved performance
