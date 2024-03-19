@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/50px-Pandas_logo.svg.png" alt="pandas" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/500px-Pandas_logo.svg.png" alt="pandas" width="100" height="50"/>
 </a>
 
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
