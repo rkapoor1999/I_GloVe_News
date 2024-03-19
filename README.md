@@ -1,8 +1,32 @@
 # WhatTheGlove-
 
-![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/50px-TensorFlowLogo.svg.png) ![Keras Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/50px-Keras_logo.svg.png) ![pandas Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/50px-Pandas_logo.svg.png) ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/50px-NumPy_logo.svg.png) ![Matplotlib Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/50px-Created_with_Matplotlib-logo.svg.png) ![Seaborn Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) ![NLTK Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/50px-NLTK_logo.svg.png)
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/50px-TensorFlowLogo.svg.png" alt="TensorFlow" width="50" height="50"/>
+</a>
 
+<a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/50px-Keras_logo.svg.png" alt="Keras" width="50" height="50"/>
+</a>
 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/50px-Pandas_logo.svg.png" alt="pandas" width="50" height="50"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/50px-NumPy_logo.svg.png" alt="NumPy" width="50" height="50"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/50px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="50" height="50"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50"/>
+</a>
+
+<a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/50px-NLTK_logo.svg.png" alt="NLTK" width="50" height="50"/>
+</a>
 
 
 # Project Overview
