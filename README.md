@@ -1,11 +1,11 @@
 # WhatTheGlove-
 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/50px-TensorFlowLogo.svg.png" alt="TensorFlow" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/500px-TensorFlowLogo.svg.png" alt="TensorFlow" width="50" height="50"/>
 </a>
 
 <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/50px-Keras_logo.svg.png" alt="Keras" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/500px-Keras_logo.svg.png" alt="Keras" width="50" height="50"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/50px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/500px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="50" height="50"/>
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
